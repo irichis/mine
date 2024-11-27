@@ -1,0 +1,5 @@
+@media(max-width:600px) and (min-width:200px){body{background-color:rgb(255, 210, 160)}}
+@media(max-width:300px) {body{background-color:rgb(212, 176, 135)}}
+@media(min-width:600px){body{background-color:rgb(129, 112, 86)}}
+
+.summary{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
